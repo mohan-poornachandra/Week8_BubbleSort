@@ -1,0 +1,3 @@
+1. It is a stable sort.
+3. It involves swapping of two adjacent elements.
+4. After each iteration, the greatest element is placed in the end.
